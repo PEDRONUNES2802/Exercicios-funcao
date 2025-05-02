@@ -11,10 +11,8 @@
      <form method='post' action='calcular.php'>
      <h1>impar ou par</h1><br></br>
      Função Impar ou par😎<br></br>
-     <input type="text" name="valor1" value = "1"><br></br>
-     <input type="text" name="valor2" value = "2"><br></br>
-     <input type="text" name="valor3" value = "3"><br></br>
-     <input type='submit' name='botao' value='Calcular' ><br> </br>
+     <input type="text" name="valor1" required><br></br>
+     <input type='submit' name='botao' value='Prosseguir' ><br> </br>
 </fieldset>
 
 
